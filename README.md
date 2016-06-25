@@ -2,7 +2,7 @@ lib_nrf24
 =========
 
 Python 2/3 library for NRF24L01+ Transceivers
-
+ 
 Raspberry Pi GPIO Header Details & Pinout
 [ NRF24L01+ Header Pinout |   Pi 3 Header Pinout  ]
  GND [1][2] 3.3V Powder   |         CE [15][16] CSN
